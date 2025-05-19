@@ -106,6 +106,9 @@ body {
 .idea-6 span,
 .wish-hbd span {
   display: inline-block;
+  letter-spacing: normal;
+  word-spacing: normal;
+  white-space: normal;
 }
 
 .idea-6 span {
